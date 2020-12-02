@@ -2,6 +2,7 @@
 mod entries;
 
 fn main() {
-    use entries::first::part2;
+    // Use some day and part and call
+    use entries::second::part2;
     part2();
 }
