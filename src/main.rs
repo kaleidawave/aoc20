@@ -2,5 +2,5 @@
 mod entries;
 
 fn main() {
-    entries::third::part2();
+    entries::fifth::part2();
 }
